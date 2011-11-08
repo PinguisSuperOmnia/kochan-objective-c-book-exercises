@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Ch08a' target in the 'Ch08a' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
